@@ -39,8 +39,6 @@ def normalize_client_name(name):
     if "crestline" in n: return "Crestline Advisory"
     if "antonoff" in n: return "Antonoff & Co"
     if "bohemian" in n: return "Bohemian Companies"
-    if "greyhill" in n: return "Greyhill"
-    if "greyhill" in n: return "Greyhill"
     if "derp" in n or "employee retirement" in n: return "DERP"
     if "harper group" in n or "harpergroup" in n: return "Harper Group"
     if "homebase" in n: return "HomeBase"
@@ -57,8 +55,21 @@ def normalize_client_name(name):
     if "unmf" in n or "new mexico foundation" in n: return "UNMF"
     if "western disposal" in n: return "Western Disposal"
     if "betawest" in n: return "Betawest"
+    if "pursuit" in n: return "Pursuit Wealth Planning"
+    if "greyhill" in n: return "Greyhill"
+    if "excel sports" in n: return "Excel Sports"
+    if "garfield" in n: return "Garfield & Hecht"
+    if "greystoke" in n: return "Graystoke Capital"
+    if "intelligent demand" in n: return "Intelligent Demand"
+    if "pei sandbox" in n: return "PEI SANDBOX"
+    if "rocky mountain" in n: return "Rocky Mountain Prestress"
+    if "summit pathology" in n: return "Summit Pathology"
+    if "us bank stadium" in n: return "US Bank Stadium"
+    if "mid pacific" in n: return "Mid Pacific Steel"
+    if "goodworks" in n: return "Goodworks"
+    if "ps technology" in n: return "PS Technology"
+    if "electrom" in n: return "Electrom Instruments"
     
-    # If no rule matches, return original trimmed name
     return name.strip()
 
 def map_user_row(row, filename):
@@ -77,7 +88,10 @@ def map_user_row(row, filename):
 
 def map_device_row(row):
     client_name = row.get("Company") or row.get("Client") or ""
-    client_name = normalize_client_name(client_name)
+    if client_name:
+        client_name = normalize_client_name(client_name)
+    else:
+        client_name = "(unknown)"
     
     device_name = row.get("Computer Name") or row.get("DeviceName") or ""
     os_name = row.get("OS") or row.get("OperatingSystem") or ""
@@ -113,8 +127,22 @@ def main():
                 mapped = map_device_row(row)
                 if mapped: all_devices.append(mapped)
 
-    # 3. Aggregate
-    clients = sorted(list(set([u['client'] for u in all_users] + [d['client'] for d in all_devices if d['client']])))
+    # 3. Discover all clients (from billing, users, or devices)
+    all_billing_clients = set()
+    billing_path = os.path.join(DESKTOP_DATA_DIR, "CWManage Billing Data.csv")
+    if os.path.exists(billing_path):
+        with open(billing_path, newline="", encoding="utf-8-sig") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                cname = row.get("Company Name")
+                if cname:
+                    all_billing_clients.add(normalize_client_name(cname))
+
+    clients = sorted(list(set(
+        list(all_billing_clients) + 
+        [u['client'] for u in all_users] + 
+        [d['client'] for d in all_devices if d['client']]
+    )))
     
     per_client = {}
     users_by_client = {}
@@ -140,7 +168,7 @@ def main():
         "perClient": per_client,
         "usersByClient": users_by_client,
         "devicesByClient": devices_by_client,
-        "billingByClient": {} # Placeholder for future billing CSV
+        "billingByClient": {}
     }
 
     with open(OUTPUT_JS, "w", encoding="utf-8") as f:

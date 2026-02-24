@@ -1,5 +1,5 @@
 window.MSP_DASHBOARD_DATA = {
-  "totalClients": 45,
+  "totalClients": 182,
   "totalUsersLicensed": 1988,
   "totalDevices": 1540,
   "allUsers": [
@@ -19129,7 +19129,7 @@ window.MSP_DASHBOARD_DATA = {
       "os": "Microsoft Windows Server 2012 R2 Standard x64"
     },
     {
-      "client": "PS Technology, Inc.",
+      "client": "PS Technology",
       "name": "RMTRACK",
       "os": "Microsoft Windows Server 2022 Datacenter x64"
     },
@@ -19635,33 +19635,161 @@ window.MSP_DASHBOARD_DATA = {
     }
   ],
   "perClient": {
+    "143 Capital": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "24/7 Networks Inc.": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "A Touch of Class Travel": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Aeronautical Systems Incorporated": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Al Ihsan School": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "Alliant": {
       "usersCount": 229,
       "devicesCount": 160
+    },
+    "American National CattleWomen": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "Amstar": {
       "usersCount": 19,
       "devicesCount": 24
     },
+    "Anthem Tax Services": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "Antonoff & Co": {
       "usersCount": 0,
       "devicesCount": 6
+    },
+    "Arizona Beef Council": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Arizona Cattle Feeders' Association": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Arkansas Cattlemen's Association": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Ascend Staffing": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Auddia": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "Betawest": {
       "usersCount": 0,
       "devicesCount": 21
     },
+    "Betty Maclean Travel Inc": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "Bohemian Companies": {
       "usersCount": 0,
       "devicesCount": 17
+    },
+    "Boulder Imaging": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "Boulder Property Management": {
       "usersCount": 25,
       "devicesCount": 28
     },
+    "Boulder Scientific Company": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Boynton Yards Owners' Association, Inc.": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "Brinkman": {
       "usersCount": 45,
       "devicesCount": 20
+    },
+    "Bron Tapes": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "By Air, Land, and Sea Travel": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "CIRSA": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Care Associates LLC": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "CattleFax": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Century Communities": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Cheley Colorado Camps, Inc.": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Ciao Bambino": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "City of Lancaster": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "City of San Leandro": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Clarifi (Formerly Xyramid)": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Clearwater Credit Union (MFCU)": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Closed Loop": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Coghlin Companies": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Colorado School of Mines Foundation": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Columbine Health Systems": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "Conifer Medical": {
       "usersCount": 59,
@@ -19671,9 +19799,29 @@ window.MSP_DASHBOARD_DATA = {
       "usersCount": 43,
       "devicesCount": 29
     },
+    "CoorsTek, Inc.": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Cordes & Company": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Covington Travel, Inc": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "Crestline Advisory": {
       "usersCount": 6,
       "devicesCount": 3
+    },
+    "Critical Path Institute": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Cruise Vacations International, Inc.": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "DERP": {
       "usersCount": 34,
@@ -19691,9 +19839,33 @@ window.MSP_DASHBOARD_DATA = {
       "usersCount": 0,
       "devicesCount": 3
     },
+    "Developmental Disabilities Resource Center": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Dick Ranian Travel Advisors": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "ESM Solutions": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Educause": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "Electrom Instruments": {
       "usersCount": 0,
       "devicesCount": 29
+    },
+    "Ellis Travel House Inc": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Epilog Laser": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "Excel Sports": {
       "usersCount": 0,
@@ -19703,9 +19875,49 @@ window.MSP_DASHBOARD_DATA = {
       "usersCount": 16,
       "devicesCount": 0
     },
+    "Feehan Insurance Agency, Inc.": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Finance For Impact (AHCDC)": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Fine Travel, Inc.": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Florida Beef Council": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Florida Cattlemen's Association": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Frandson Safety": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "GTO Technologies": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "Garfield & Hecht": {
       "usersCount": 0,
       "devicesCount": 67
+    },
+    "Gerling Travel": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Glacier Bank": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Gloo": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "Goodworks": {
       "usersCount": 0,
@@ -19715,13 +19927,49 @@ window.MSP_DASHBOARD_DATA = {
       "usersCount": 0,
       "devicesCount": 4
     },
+    "Greater Detroit Landscape Company": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Greatways Travel": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "Harper Group": {
       "usersCount": 342,
       "devicesCount": 38
     },
+    "Harrison Travel": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Historic Hudson Valley": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "HomeBase": {
       "usersCount": 69,
       "devicesCount": 80
+    },
+    "ICAST": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Iantosca Travel": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Idaho Beef Council": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Idaho Cattle Association": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Imagine!": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "Intelligent Demand": {
       "usersCount": 0,
@@ -19731,25 +19979,145 @@ window.MSP_DASHBOARD_DATA = {
       "usersCount": 0,
       "devicesCount": 80
     },
+    "Jensen Travelon": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Jesuit Volunteer Corps (JVC) Northwest": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "Jet": {
       "usersCount": 86,
+      "devicesCount": 0
+    },
+    "Joeris General Contractors": {
+      "usersCount": 0,
       "devicesCount": 0
     },
     "Johannessen": {
       "usersCount": 66,
       "devicesCount": 4
     },
+    "Kamber Law": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "KeyStone": {
       "usersCount": 75,
       "devicesCount": 51
+    },
+    "LXR Travel, LLC": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Landings Travel": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Larson Financial": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Lattan": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Lightning eMotors": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Litwin Travel": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Live 4 Travel": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "M&E Painting": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "MG Stover": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "MGMA": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Merritt Enterprise Shared Services": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "Mid Pacific Steel": {
       "usersCount": 0,
       "devicesCount": 1
     },
+    "Minnesota Beef Council": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Minnesota Cattlemen's Association": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Montana Beef Council": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Montana Stockgrowers Association": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Moye White LLP": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "NDTCO": {
       "usersCount": 76,
       "devicesCount": 71
+    },
+    "NOCO Jiu Jitsu": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "National Cattlemen's Beef Association": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Nebraska Beef Council": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Nevada Beef": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "New Directions Northwest, Inc.": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "New York Beef Council": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "New York Beef Producers": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Northwest Parkway": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Oregon Beef Council": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Orthopedic & Spine Center of the Rockies, P.C.": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "PEI": {
       "usersCount": 0,
@@ -19759,13 +20127,29 @@ window.MSP_DASHBOARD_DATA = {
       "usersCount": 0,
       "devicesCount": 3
     },
-    "PS Technology, Inc.": {
+    "PS Technology": {
       "usersCount": 0,
       "devicesCount": 1
+    },
+    "Pennsylvania Beef Council": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Personalized Travel Consultants": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Petra Systems": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "Pinery Water": {
       "usersCount": 27,
       "devicesCount": 43
+    },
+    "Posh Travel": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "PowerTech": {
       "usersCount": 37,
@@ -19779,25 +20163,129 @@ window.MSP_DASHBOARD_DATA = {
       "usersCount": 0,
       "devicesCount": 4
     },
+    "Rain the Growth Agency": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Ready Foods": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "Reese Henry": {
       "usersCount": 106,
       "devicesCount": 118
+    },
+    "Rockett Travel": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "Rocky Mountain Prestress": {
       "usersCount": 0,
       "devicesCount": 2
     },
+    "Rosie Flanagan Travel": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Schottenstein Property Group": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Simplus LLC": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Sonnenalp Hotel": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "South Dakota Cattlemen's Association": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "St Armands Travel": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Steelman Gaunt Crowley": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "Summit Pathology": {
       "usersCount": 0,
       "devicesCount": 142
+    },
+    "TBL Fund": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "TSC LLC": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Talent Groups": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Teammates": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Tennessee Beef Industry Council": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Tennessee Cattlemen's Association": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "The Foundation for Natural Resources and Energy La": {
       "usersCount": 0,
       "devicesCount": 12
     },
+    "The Travel Corner": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Tiger Button Co., Inc.": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Town and Country Travel Inc.": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "Town of Avon": {
       "usersCount": 191,
       "devicesCount": 1
+    },
+    "Travel Crafter": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Travel Smith Inc": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Travelworld of Coronado": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Trevco": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Trinidad School District": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Truebeck Construction": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Twin Tree Capital Management": {
+      "usersCount": 0,
+      "devicesCount": 0
     },
     "UNMF": {
       "usersCount": 144,
@@ -19811,12 +20299,77 @@ window.MSP_DASHBOARD_DATA = {
       "usersCount": 137,
       "devicesCount": 0
     },
+    "Utah Beef Council": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Virginia Beef Council": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Virginia Cattlemen's Association": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Vista Travel Consultants Inc.": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Washington Feeders": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Washington State Beef Commission": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Wells Concrete": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "West Virginia Beef": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
     "Western Disposal": {
       "usersCount": 55,
       "devicesCount": 1
+    },
+    "Whitefish Credit Union": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Whiteford, Taylor & Preston LLP": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Wills and Wellness": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Wisconsin Beef Council": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "Wisconsin Cattlemen's Association": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "World Travel Service": {
+      "usersCount": 0,
+      "devicesCount": 0
+    },
+    "eSkillz Corp": {
+      "usersCount": 0,
+      "devicesCount": 0
     }
   },
   "usersByClient": {
+    "143 Capital": [],
+    "24/7 Networks Inc.": [],
+    "A Touch of Class Travel": [],
+    "Aeronautical Systems Incorporated": [],
+    "Al Ihsan School": [],
     "Alliant": [
       {
         "client": "Alliant",
@@ -21193,6 +21746,7 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft 365 E5"
       }
     ],
+    "American National CattleWomen": [],
     "Amstar": [
       {
         "client": "Amstar",
@@ -21309,9 +21863,17 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft Teams Audio Conferencing includes dial-out to USA/CAN only+Microsoft 365 Business Premium"
       }
     ],
+    "Anthem Tax Services": [],
     "Antonoff & Co": [],
+    "Arizona Beef Council": [],
+    "Arizona Cattle Feeders' Association": [],
+    "Arkansas Cattlemen's Association": [],
+    "Ascend Staffing": [],
+    "Auddia": [],
     "Betawest": [],
+    "Betty Maclean Travel Inc": [],
     "Bohemian Companies": [],
+    "Boulder Imaging": [],
     "Boulder Property Management": [
       {
         "client": "Boulder Property Management",
@@ -21464,6 +22026,8 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft 365 Business Standard"
       }
     ],
+    "Boulder Scientific Company": [],
+    "Boynton Yards Owners' Association, Inc.": [],
     "Brinkman": [
       {
         "client": "Brinkman",
@@ -21736,6 +22300,22 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft 365 Business Premium"
       }
     ],
+    "Bron Tapes": [],
+    "By Air, Land, and Sea Travel": [],
+    "CIRSA": [],
+    "Care Associates LLC": [],
+    "CattleFax": [],
+    "Century Communities": [],
+    "Cheley Colorado Camps, Inc.": [],
+    "Ciao Bambino": [],
+    "City of Lancaster": [],
+    "City of San Leandro": [],
+    "Clarifi (Formerly Xyramid)": [],
+    "Clearwater Credit Union (MFCU)": [],
+    "Closed Loop": [],
+    "Coghlin Companies": [],
+    "Colorado School of Mines Foundation": [],
+    "Columbine Health Systems": [],
     "Conifer Medical": [
       {
         "client": "Conifer Medical",
@@ -22352,6 +22932,9 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft 365 E3"
       }
     ],
+    "CoorsTek, Inc.": [],
+    "Cordes & Company": [],
+    "Covington Travel, Inc": [],
     "Crestline Advisory": [
       {
         "client": "Crestline Advisory",
@@ -22390,6 +22973,8 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft 365 Business Premium+Dynamics 365 P1 Trial for Information Workers+Microsoft Power Automate Free"
       }
     ],
+    "Critical Path Institute": [],
+    "Cruise Vacations International, Inc.": [],
     "DERP": [
       {
         "client": "DERP",
@@ -22750,7 +23335,13 @@ window.MSP_DASHBOARD_DATA = {
       }
     ],
     "Denver Academy": [],
+    "Developmental Disabilities Resource Center": [],
+    "Dick Ranian Travel Advisors": [],
+    "ESM Solutions": [],
+    "Educause": [],
     "Electrom Instruments": [],
+    "Ellis Travel House Inc": [],
+    "Epilog Laser": [],
     "Excel Sports": [],
     "FNREL": [
       {
@@ -22850,9 +23441,21 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft 365 Business Premium"
       }
     ],
+    "Feehan Insurance Agency, Inc.": [],
+    "Finance For Impact (AHCDC)": [],
+    "Fine Travel, Inc.": [],
+    "Florida Beef Council": [],
+    "Florida Cattlemen's Association": [],
+    "Frandson Safety": [],
+    "GTO Technologies": [],
     "Garfield & Hecht": [],
+    "Gerling Travel": [],
+    "Glacier Bank": [],
+    "Gloo": [],
     "Goodworks": [],
     "Graystoke Capital Partners": [],
+    "Greater Detroit Landscape Company": [],
+    "Greatways Travel": [],
     "Harper Group": [
       {
         "client": "Harper Group",
@@ -24907,6 +25510,8 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft 365 Business Basic"
       }
     ],
+    "Harrison Travel": [],
+    "Historic Hudson Valley": [],
     "HomeBase": [
       {
         "client": "HomeBase",
@@ -25323,8 +25928,15 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft Defender Vulnerability Management+Microsoft Power Automate Free+Microsoft 365 Business Premium"
       }
     ],
+    "ICAST": [],
+    "Iantosca Travel": [],
+    "Idaho Beef Council": [],
+    "Idaho Cattle Association": [],
+    "Imagine!": [],
     "Intelligent Demand": [],
     "JET Infrastructure": [],
+    "Jensen Travelon": [],
+    "Jesuit Volunteer Corps (JVC) Northwest": [],
     "Jet": [
       {
         "client": "Jet",
@@ -25843,6 +26455,7 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Power BI Premium Per User+Microsoft 365 Business Premium+Microsoft Power Automate Free+Microsoft Teams Audio Conferencing includes dial-out to USA/CAN only"
       }
     ],
+    "Joeris General Contractors": [],
     "Johannessen": [
       {
         "client": "Johannessen",
@@ -26241,6 +26854,7 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft 365 Business Premium+Teams Phone with pay-as-you-go calling (country zone 1 - US)+Microsoft Teams Audio Conferencing includes dial-out to USA/CAN only"
       }
     ],
+    "Kamber Law": [],
     "KeyStone": [
       {
         "client": "KeyStone",
@@ -26693,7 +27307,23 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft 365 Business Basic+Microsoft Power Automate Free"
       }
     ],
+    "LXR Travel, LLC": [],
+    "Landings Travel": [],
+    "Larson Financial": [],
+    "Lattan": [],
+    "Lightning eMotors": [],
+    "Litwin Travel": [],
+    "Live 4 Travel": [],
+    "M&E Painting": [],
+    "MG Stover": [],
+    "MGMA": [],
+    "Merritt Enterprise Shared Services": [],
     "Mid Pacific Steel": [],
+    "Minnesota Beef Council": [],
+    "Minnesota Cattlemen's Association": [],
+    "Montana Beef Council": [],
+    "Montana Stockgrowers Association": [],
+    "Moye White LLP": [],
     "NDTCO": [
       {
         "client": "NDTCO",
@@ -27152,9 +27782,22 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft Power Automate Free+Microsoft 365 E3"
       }
     ],
+    "NOCO Jiu Jitsu": [],
+    "National Cattlemen's Beef Association": [],
+    "Nebraska Beef Council": [],
+    "Nevada Beef": [],
+    "New Directions Northwest, Inc.": [],
+    "New York Beef Council": [],
+    "New York Beef Producers": [],
+    "Northwest Parkway": [],
+    "Oregon Beef Council": [],
+    "Orthopedic & Spine Center of the Rockies, P.C.": [],
     "PEI": [],
     "PEI SANDBOX": [],
-    "PS Technology, Inc.": [],
+    "PS Technology": [],
+    "Pennsylvania Beef Council": [],
+    "Personalized Travel Consultants": [],
+    "Petra Systems": [],
     "Pinery Water": [
       {
         "client": "Pinery Water",
@@ -27319,6 +27962,7 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Exchange Online (Plan 1)"
       }
     ],
+    "Posh Travel": [],
     "PowerTech": [
       {
         "client": "PowerTech",
@@ -28002,6 +28646,8 @@ window.MSP_DASHBOARD_DATA = {
       }
     ],
     "Pursuit Wealth Planning": [],
+    "Rain the Growth Agency": [],
+    "Ready Foods": [],
     "Reese Henry": [
       {
         "client": "Reese Henry",
@@ -28640,9 +29286,26 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft 365 Copilot+Microsoft Teams Premium+Microsoft Power Automate Free+Microsoft 365 E5+Communications Credits+Microsoft Teams Domestic Calling Plan"
       }
     ],
+    "Rockett Travel": [],
     "Rocky Mountain Prestress": [],
+    "Rosie Flanagan Travel": [],
+    "Schottenstein Property Group": [],
+    "Simplus LLC": [],
+    "Sonnenalp Hotel": [],
+    "South Dakota Cattlemen's Association": [],
+    "St Armands Travel": [],
+    "Steelman Gaunt Crowley": [],
     "Summit Pathology": [],
+    "TBL Fund": [],
+    "TSC LLC": [],
+    "Talent Groups": [],
+    "Teammates": [],
+    "Tennessee Beef Industry Council": [],
+    "Tennessee Cattlemen's Association": [],
     "The Foundation for Natural Resources and Energy La": [],
+    "The Travel Corner": [],
+    "Tiger Button Co., Inc.": [],
+    "Town and Country Travel Inc.": [],
     "Town of Avon": [
       {
         "client": "Town of Avon",
@@ -29791,6 +30454,13 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft 365 F3"
       }
     ],
+    "Travel Crafter": [],
+    "Travel Smith Inc": [],
+    "Travelworld of Coronado": [],
+    "Trevco": [],
+    "Trinidad School District": [],
+    "Truebeck Construction": [],
+    "Twin Tree Capital Management": [],
     "UNMF": [
       {
         "client": "UNMF",
@@ -31482,6 +32152,14 @@ window.MSP_DASHBOARD_DATA = {
         "licenses": "Microsoft 365 Business Premium+Microsoft Power Automate Free"
       }
     ],
+    "Utah Beef Council": [],
+    "Virginia Beef Council": [],
+    "Virginia Cattlemen's Association": [],
+    "Vista Travel Consultants Inc.": [],
+    "Washington Feeders": [],
+    "Washington State Beef Commission": [],
+    "Wells Concrete": [],
+    "West Virginia Beef": [],
     "Western Disposal": [
       {
         "client": "Western Disposal",
@@ -31813,9 +32491,21 @@ window.MSP_DASHBOARD_DATA = {
         "upn": "veritas@westerndisposal.com",
         "licenses": "Microsoft 365 Business Standard+Azure Active Directory Premium P1"
       }
-    ]
+    ],
+    "Whitefish Credit Union": [],
+    "Whiteford, Taylor & Preston LLP": [],
+    "Wills and Wellness": [],
+    "Wisconsin Beef Council": [],
+    "Wisconsin Cattlemen's Association": [],
+    "World Travel Service": [],
+    "eSkillz Corp": []
   },
   "devicesByClient": {
+    "143 Capital": [],
+    "24/7 Networks Inc.": [],
+    "A Touch of Class Travel": [],
+    "Aeronautical Systems Incorporated": [],
+    "Al Ihsan School": [],
     "Alliant": [
       {
         "client": "Alliant",
@@ -32618,6 +33308,7 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows Server 2019 Standard x64"
       }
     ],
+    "American National CattleWomen": [],
     "Amstar": [
       {
         "client": "Amstar",
@@ -32740,6 +33431,7 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows Server 2016 Standard x64"
       }
     ],
+    "Anthem Tax Services": [],
     "Antonoff & Co": [
       {
         "client": "Antonoff & Co",
@@ -32772,6 +33464,11 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Pro x64"
       }
     ],
+    "Arizona Beef Council": [],
+    "Arizona Cattle Feeders' Association": [],
+    "Arkansas Cattlemen's Association": [],
+    "Ascend Staffing": [],
+    "Auddia": [],
     "Betawest": [
       {
         "client": "Betawest",
@@ -32879,6 +33576,7 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Pro x64"
       }
     ],
+    "Betty Maclean Travel Inc": [],
     "Bohemian Companies": [
       {
         "client": "Bohemian Companies",
@@ -32966,6 +33664,7 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Pro x64"
       }
     ],
+    "Boulder Imaging": [],
     "Boulder Property Management": [
       {
         "client": "Boulder Property Management",
@@ -33108,6 +33807,8 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 10 Pro x64"
       }
     ],
+    "Boulder Scientific Company": [],
+    "Boynton Yards Owners' Association, Inc.": [],
     "Brinkman": [
       {
         "client": "Brinkman",
@@ -33210,6 +33911,22 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Enterprise x64"
       }
     ],
+    "Bron Tapes": [],
+    "By Air, Land, and Sea Travel": [],
+    "CIRSA": [],
+    "Care Associates LLC": [],
+    "CattleFax": [],
+    "Century Communities": [],
+    "Cheley Colorado Camps, Inc.": [],
+    "Ciao Bambino": [],
+    "City of Lancaster": [],
+    "City of San Leandro": [],
+    "Clarifi (Formerly Xyramid)": [],
+    "Clearwater Credit Union (MFCU)": [],
+    "Closed Loop": [],
+    "Coghlin Companies": [],
+    "Colorado School of Mines Foundation": [],
+    "Columbine Health Systems": [],
     "Conifer Medical": [
       {
         "client": "Conifer Medical",
@@ -33794,6 +34511,9 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Enterprise x64"
       }
     ],
+    "CoorsTek, Inc.": [],
+    "Cordes & Company": [],
+    "Covington Travel, Inc": [],
     "Crestline Advisory": [
       {
         "client": "Crestline Advisory",
@@ -33811,6 +34531,8 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Pro x64"
       }
     ],
+    "Critical Path Institute": [],
+    "Cruise Vacations International, Inc.": [],
     "DERP": [
       {
         "client": "DERP",
@@ -34108,6 +34830,10 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows Server 2022 Standard x64"
       }
     ],
+    "Developmental Disabilities Resource Center": [],
+    "Dick Ranian Travel Advisors": [],
+    "ESM Solutions": [],
+    "Educause": [],
     "Electrom Instruments": [
       {
         "client": "Electrom Instruments",
@@ -34255,6 +34981,8 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 7 Ultimate"
       }
     ],
+    "Ellis Travel House Inc": [],
+    "Epilog Laser": [],
     "Excel Sports": [
       {
         "client": "Excel Sports",
@@ -34423,6 +35151,13 @@ window.MSP_DASHBOARD_DATA = {
       }
     ],
     "FNREL": [],
+    "Feehan Insurance Agency, Inc.": [],
+    "Finance For Impact (AHCDC)": [],
+    "Fine Travel, Inc.": [],
+    "Florida Beef Council": [],
+    "Florida Cattlemen's Association": [],
+    "Frandson Safety": [],
+    "GTO Technologies": [],
     "Garfield & Hecht": [
       {
         "client": "Garfield & Hecht",
@@ -34760,6 +35495,9 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Pro x64"
       }
     ],
+    "Gerling Travel": [],
+    "Glacier Bank": [],
+    "Gloo": [],
     "Goodworks": [
       {
         "client": "Goodworks",
@@ -34799,6 +35537,8 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Business x64"
       }
     ],
+    "Greater Detroit Landscape Company": [],
+    "Greatways Travel": [],
     "Harper Group": [
       {
         "client": "Harper Group",
@@ -34991,6 +35731,8 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Business x64"
       }
     ],
+    "Harrison Travel": [],
+    "Historic Hudson Valley": [],
     "HomeBase": [
       {
         "client": "HomeBase",
@@ -35393,6 +36135,11 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows Server 2019 Standard x64"
       }
     ],
+    "ICAST": [],
+    "Iantosca Travel": [],
+    "Idaho Beef Council": [],
+    "Idaho Cattle Association": [],
+    "Imagine!": [],
     "Intelligent Demand": [
       {
         "client": "Intelligent Demand",
@@ -35867,7 +36614,10 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Pro x64"
       }
     ],
+    "Jensen Travelon": [],
+    "Jesuit Volunteer Corps (JVC) Northwest": [],
     "Jet": [],
+    "Joeris General Contractors": [],
     "Johannessen": [
       {
         "client": "Johannessen",
@@ -35890,6 +36640,7 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows Server 2022 Standard x64"
       }
     ],
+    "Kamber Law": [],
     "KeyStone": [
       {
         "client": "KeyStone",
@@ -36147,6 +36898,17 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Pro x64"
       }
     ],
+    "LXR Travel, LLC": [],
+    "Landings Travel": [],
+    "Larson Financial": [],
+    "Lattan": [],
+    "Lightning eMotors": [],
+    "Litwin Travel": [],
+    "Live 4 Travel": [],
+    "M&E Painting": [],
+    "MG Stover": [],
+    "MGMA": [],
+    "Merritt Enterprise Shared Services": [],
     "Mid Pacific Steel": [
       {
         "client": "Mid Pacific Steel",
@@ -36154,6 +36916,11 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows Server 2016 Standard x64"
       }
     ],
+    "Minnesota Beef Council": [],
+    "Minnesota Cattlemen's Association": [],
+    "Montana Beef Council": [],
+    "Montana Stockgrowers Association": [],
+    "Moye White LLP": [],
     "NDTCO": [
       {
         "client": "NDTCO",
@@ -36511,6 +37278,16 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Enterprise x64"
       }
     ],
+    "NOCO Jiu Jitsu": [],
+    "National Cattlemen's Beef Association": [],
+    "Nebraska Beef Council": [],
+    "Nevada Beef": [],
+    "New Directions Northwest, Inc.": [],
+    "New York Beef Council": [],
+    "New York Beef Producers": [],
+    "Northwest Parkway": [],
+    "Oregon Beef Council": [],
+    "Orthopedic & Spine Center of the Rockies, P.C.": [],
     "PEI": [
       {
         "client": "PEI",
@@ -36705,13 +37482,16 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Pro x64"
       }
     ],
-    "PS Technology, Inc.": [
+    "PS Technology": [
       {
-        "client": "PS Technology, Inc.",
+        "client": "PS Technology",
         "name": "RMTRACK",
         "os": "Microsoft Windows Server 2022 Datacenter x64"
       }
     ],
+    "Pennsylvania Beef Council": [],
+    "Personalized Travel Consultants": [],
+    "Petra Systems": [],
     "Pinery Water": [
       {
         "client": "Pinery Water",
@@ -36929,6 +37709,7 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows Server 2022 x64"
       }
     ],
+    "Posh Travel": [],
     "PowerTech": [
       {
         "client": "PowerTech",
@@ -37320,6 +38101,8 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Pro x64"
       }
     ],
+    "Rain the Growth Agency": [],
+    "Ready Foods": [],
     "Reese Henry": [
       {
         "client": "Reese Henry",
@@ -37912,6 +38695,7 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows Server 2022 Standard x64"
       }
     ],
+    "Rockett Travel": [],
     "Rocky Mountain Prestress": [
       {
         "client": "Rocky Mountain Prestress",
@@ -37924,6 +38708,13 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows Server 2012 R2 Standard x64"
       }
     ],
+    "Rosie Flanagan Travel": [],
+    "Schottenstein Property Group": [],
+    "Simplus LLC": [],
+    "Sonnenalp Hotel": [],
+    "South Dakota Cattlemen's Association": [],
+    "St Armands Travel": [],
+    "Steelman Gaunt Crowley": [],
     "Summit Pathology": [
       {
         "client": "Summit Pathology",
@@ -38636,6 +39427,12 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows Server 2019 Datacenter x64"
       }
     ],
+    "TBL Fund": [],
+    "TSC LLC": [],
+    "Talent Groups": [],
+    "Teammates": [],
+    "Tennessee Beef Industry Council": [],
+    "Tennessee Cattlemen's Association": [],
     "The Foundation for Natural Resources and Energy La": [
       {
         "client": "The Foundation for Natural Resources and Energy La",
@@ -38698,6 +39495,9 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows 11 Business x64"
       }
     ],
+    "The Travel Corner": [],
+    "Tiger Button Co., Inc.": [],
+    "Town and Country Travel Inc.": [],
     "Town of Avon": [
       {
         "client": "Town of Avon",
@@ -38705,6 +39505,13 @@ window.MSP_DASHBOARD_DATA = {
         "os": "Microsoft Windows Server 2012 R2 Standard x64"
       }
     ],
+    "Travel Crafter": [],
+    "Travel Smith Inc": [],
+    "Travelworld of Coronado": [],
+    "Trevco": [],
+    "Trinidad School District": [],
+    "Truebeck Construction": [],
+    "Twin Tree Capital Management": [],
     "UNMF": [
       {
         "client": "UNMF",
@@ -39595,13 +40402,28 @@ window.MSP_DASHBOARD_DATA = {
       }
     ],
     "Ultimate Hydro": [],
+    "Utah Beef Council": [],
+    "Virginia Beef Council": [],
+    "Virginia Cattlemen's Association": [],
+    "Vista Travel Consultants Inc.": [],
+    "Washington Feeders": [],
+    "Washington State Beef Commission": [],
+    "Wells Concrete": [],
+    "West Virginia Beef": [],
     "Western Disposal": [
       {
         "client": "Western Disposal",
         "name": "WESTERN35",
         "os": "Microsoft Windows Server 2012 R2 Datacenter x64"
       }
-    ]
+    ],
+    "Whitefish Credit Union": [],
+    "Whiteford, Taylor & Preston LLP": [],
+    "Wills and Wellness": [],
+    "Wisconsin Beef Council": [],
+    "Wisconsin Cattlemen's Association": [],
+    "World Travel Service": [],
+    "eSkillz Corp": []
   },
   "billingByClient": {}
 };
